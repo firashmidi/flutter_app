@@ -54,4 +54,3 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 [Tutorial reference](https://www.raywenderlich.com/34019063-creating-local-notifications-in-flutter) for this app.
-
